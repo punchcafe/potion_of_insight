@@ -1,0 +1,39 @@
+[
+    {
+        "category": "networks:ip",
+        "question": "What does IP stand for?",
+        "answers": [
+            "Internet Party",
+            "Internet Protocol",
+            "Intermediate Pokemon",
+            "InterPlanetary"
+        ],
+        "solution_index": 1,
+        "difficulty": 1
+    },
+    {
+        "category": "networks:dns",
+        "question": "What converts a Domain name to an IP?",
+        "answers": [
+            "DHCP",
+            "DNS",
+            "TCP",
+            "HTTP"
+        ],
+        "solution_index": 1,
+        "difficulty": 1
+    },
+    {
+        "category": "networks:http",
+        "question": "Which of the following needs a Certificate Authority?",
+        "answers": [
+            "HTTP",
+            "HTTPS",
+            "FTP",
+            "FTPS",
+            "SSH"
+        ],
+        "solution_index": 1,
+        "difficulty": 1
+    }
+]
