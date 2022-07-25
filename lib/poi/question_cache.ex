@@ -1,9 +1,5 @@
 defmodule Poi.QuestionCache do
+  # def list_category(category)
 
-
-    #def list_category(category)
-    
-    #def get(id)
-
-    
+  # def get(id)
 end
